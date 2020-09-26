@@ -14,6 +14,6 @@ public interface ProductoClienteRest {
     public List<Producto> findAll();
 
     @GetMapping("/ver/{id}")
-    public  Producto findById(@PathVariable Long id);
+    public Producto findById(@PathVariable Long id);
 
 }
