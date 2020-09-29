@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import com.springboot.app.commons.models.entity.Producto;
 
 @Getter
 @Setter
